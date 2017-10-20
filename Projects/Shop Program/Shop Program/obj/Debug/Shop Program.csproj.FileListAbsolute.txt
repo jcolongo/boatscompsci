@@ -1,0 +1,7 @@
+E:\boatscompsci\Project\Shop Program\Shop Program\bin\Debug\Shop Program.exe.config
+E:\boatscompsci\Projects\Shop Program\Shop Program\bin\Debug\Shop Program.exe.config
+E:\boatscompsci\Projects\Shop Program\Shop Program\obj\Debug\Shop Program.csprojResolveAssemblyReference.cache
+E:\boatscompsci\Projects\Shop Program\Shop Program\bin\Debug\Shop Program.exe
+E:\boatscompsci\Projects\Shop Program\Shop Program\bin\Debug\Shop Program.pdb
+E:\boatscompsci\Projects\Shop Program\Shop Program\obj\Debug\Shop Program.exe
+E:\boatscompsci\Projects\Shop Program\Shop Program\obj\Debug\Shop Program.pdb
